@@ -1,0 +1,7 @@
+.vim
+.ipynb_checkpoints
+**/__pycache__
+**/*.pyc
+models/
+**/*.pt
+
